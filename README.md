@@ -12,11 +12,11 @@ create a printable data structure like that
     ]
     >>> print pp.PrettyTable(data, header=header)
     +------------------------------+--------------+
-    | Game                         | Rating       |
+    |         Game                 |   Rating     |
     +------------------------------+--------------+
-    | Super Mario Bros.            | Very High    |
+    |    Super Mario Bros.         | Very High    |
     +------------------------------+--------------+
-    | GTA2                         | High         |
+    |         GT                   | High         |
     +------------------------------+--------------+
     | Call of Duty: Modern Warfare | OMG! Ponies! |
     +------------------------------+--------------+
